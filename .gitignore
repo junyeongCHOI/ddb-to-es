@@ -1,0 +1,7 @@
+/node_modules
+/dist
+.DS_Store
+.vscode
+.parcel-cache
+npm-debug.log*
+*.pem
